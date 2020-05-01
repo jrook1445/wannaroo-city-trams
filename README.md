@@ -39,3 +39,6 @@ NewGRF for OpenTTD - Passenger, courier, and goods trams including articulated v
     Grateful credit for the original to Richard Wheeler (Zephyris). This NewGRF modifies his original work.
 
     NML and NFO: with many thanks to all the developers/contributors of NML, NFO, and the documentation/newgrf spec website at https://newgrf-specs.tt-wiki.net/wiki/Main_Page
+
+:peace_symbol:
+
