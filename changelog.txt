@@ -1,0 +1,17 @@
+Wannaroo City Trams
+
+1.0 - 2020-05-xx
+-----------------------------------------------------------
+Initial release
+
+Fork of Zephyris' Generic Tram Set v0.4:
+
+    1. Modified grfid.
+    2. Added readme, license, changelog to tar file.
+    3. Updated grf version from 06 to 08 so we can use rv property 24.
+    4. Passenger trams refit to tourists.
+    5. Courier trams refit to mail + armoured cargo.
+    6. Goods trams refit to express cargo + water.
+    7. Adjustments to intro year, costs, speed, capacity, power, & weight.
+    8. Last generation does not expire.
+
