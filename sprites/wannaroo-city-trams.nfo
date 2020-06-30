@@ -5,11 +5,11 @@
 // Escapes: D= = DR D+ = DF D- = DC Du* = DM D* = DnF Du<< = DnC D<< = DO D& D| Du/ D/ Du% D%
 // Format: spritenum imagefile depth xpos ypos xsize ysize xrel yrel zoom flags
     0 * 4	 35 01 00 00
-    1 * 19	 14 "CINFOBVRSN" \w4 \d10 00 00
-    2 * 19	 14 "CINFOBMINV" \w4 \d10 00 00
+    1 * 19	 14 "CINFOBVRSN" \w4 \d1000 00 00
+    2 * 19	 14 "CINFOBMINV" \w4 \d1000 00 00
     3 * 63	 14 "CINFOTURL_" 00 "https://github.com/jrook1445/wannaroo-city-trams" 00 00 00
     4 * 16	 14 "CINFOBPALS" \w1 "W" 00 00
-    5 * 268	 08 08 "jdr" 89 "Wannaroo City Trams" 00 "\nPassenger, "
+    5 * 268	 08 08 "jdr" 0B "Wannaroo City Trams" 00 "\nPassenger, "
 	 "courier, and goods trams including articulated vehicles.\n\n"
 	 "Fork of Zephyris' Generic Tram Set v0.4\n\n"
 	 "Grateful credit for the original to Richard Wheeler (Zephyris). "

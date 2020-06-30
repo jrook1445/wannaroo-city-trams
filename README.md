@@ -3,11 +3,11 @@
 NewGRF for OpenTTD - Passenger, courier, and goods trams including articulated vehicles. Fork of Zephyris' Generic Tram Set v0.4
 
 1. About
-    
-    Passenger, courier, and goods trams including articulated vehicles. Fork of Zephyris' Generic Tram Set v0.4. I wanted to update this set with some new stats and also ensure it could refit to new cargos. Also an opportunity to work with some nfo. :thinking:
-    
+
+    Passenger, courier, and goods trams including articulated vehicles. Fork of Zephyris' Generic Tram Set v0.4. I wanted to update this set with some new stats and also ensure it could refit to more new cargos. Useful for transporting pax/tourists and town cargos; not suitable for raw materials transport. Also an opportunity to work with nfo. :thinking:
+
 1. Compatibility
-    
+
     Compatibility with any newgrf is not guaranteed. No warranties are expressed or implied. Not tested with OpenTTD versions < 1.7.2.
 
     Not valid for Toyland.
@@ -24,7 +24,7 @@ NewGRF for OpenTTD - Passenger, courier, and goods trams including articulated v
 
     A single nfo file (plus a png and a wav), compiled with grfcodec. I built this newgrf on Linux Mint 19.3 using grfcodec version 6.0.6 r991.
 
-1. Licence
+1. License
 
     CC-BY-NC-SA v3.0
 
